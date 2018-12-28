@@ -39,4 +39,4 @@ if err != nil {
 
 This proposal address two concerns to the draft design:  
 1. the weirdness of adding additional keyword before a function
-2. function "loses" a return value when we use "check"(redability is compromised somehow)
+2. function "loses" a return value when we use "check"(readability is compromised somehow)
